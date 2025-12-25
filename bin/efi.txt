@@ -1,0 +1,19 @@
+SELECT DISK #DISK#
+CLEAN
+CONVERT GPT
+REM ======== 1. EFI SYSTEM PARTITION (Hidden) =============================
+CREATE PARTITION EFI SIZE=200
+FORMAT QUICK FS=FAT32 LABEL="EFI_BOOT" OVERRIDE
+
+REM ======== 2. WINDOWS PARTITION (100 GB) ================================
+CREATE PARTITION PRIMARY SIZE=102400
+
+REM LABEL="Win_Install" Etiketi kesinlikle DEGISTIRME!
+REM LABEL="Win_Install" Do not change the label under any circumstances!
+
+FORMAT QUICK FS=NTFS LABEL="Win_Install" OVERRIDE
+ASSIGN
+REM ======== 3. DATA PARTITION (Remaining Space) ==========================
+CREATE PARTITION PRIMARY
+FORMAT QUICK FS=NTFS LABEL="Files" OVERRIDE
+ASSIGN
