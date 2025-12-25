@@ -9,9 +9,9 @@
 <details>
 <summary><b>📸 Önizleme/Preview</b></summary>
   
-![sample](https://github.com/abdullah-erturk/files/blob/main/1.jpg)
-![sample](https://github.com/abdullah-erturk/files/blob/main/2.jpg)
-![sample](https://github.com/abdullah-erturk/files/blob/main/3.jpg)
+![sample](https://github.com/abdullah-erturk/Windows-Backup-Recovery-Tool/blob/main/1.jpg)
+![sample](https://github.com/abdullah-erturk/Windows-Backup-Recovery-Tool/blob/main/2.jpg)
+![sample](https://github.com/abdullah-erturk/Windows-Backup-Recovery-Tool/blob/main/3.jpg)
 
 </details>
 
