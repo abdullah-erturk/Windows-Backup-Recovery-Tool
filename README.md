@@ -8,7 +8,7 @@
 
 ## Link:
 
-[![Stable?](https://img.shields.io/badge/Release-v1.svg?style=flat)](https://codeload.github.com/abdullah-erturk/Windows-Backup-Recovery-Tool/archive/refs/heads/main)
+[![Stable?](https://img.shields.io/badge/Release-v1.svg?style=flat)](https://github.com/abdullah-erturk/Windows-Backup-Recovery-Tool/archive/refs/heads/main.zip)
 
 <details>
 <summary><b>📸 Önizleme/Preview</b></summary>
