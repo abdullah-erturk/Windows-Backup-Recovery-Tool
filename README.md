@@ -30,6 +30,8 @@ Windows kurulumlarını yedeklemek ve geri yüklemek için kapsamlı bir komut s
 
 Bu araç, sistem imajı yedekleri oluşturmak ve Windows kurulumlarını geri yüklemek için profesyonel bir çözüm sunar. **Öncelikli olarak yedekleme ve kurtarma işlemleri için tasarlanmış** olsa da, gerektiğinde sıfırdan Windows kurulumunda da kullanılabilir.
 
+GUI Arayüz sevenler için: https://github.com/abdullah-erturk/Windows-Backup-Restore-Tool
+
 ## ✨ Öne Çıkan Özellikler
 
 ### 📦 Yedekleme (İmaj Oluşturma)
@@ -239,6 +241,9 @@ Bu aracı faydalı bulduysanız, lütfen bir yıldız vererek değerlendirin!
 A comprehensive command-line tool for backing up and restoring Windows installations, with support for both online (running Windows) and offline (WinPE) environments.
 
 This tool provides a professional solution for creating system image backups and restoring Windows installations. While **primarily designed for backup and recovery operations**, it can also be used for fresh Windows installations when needed.
+
+For GUI Interface lovers: https://github.com/abdullah-erturk/Windows-Backup-Restore-Tool
+
 
 ## ✨ Key Features
 
