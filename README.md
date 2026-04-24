@@ -215,7 +215,7 @@ Bu araç sistem yönetimi ve kişisel kullanım için olduğu gibi sağlanmaktad
 ## 👤 Yazar
 
 **Abdullah ERTURK**
-- Web: [erturk.netlify.app](https://erturk.netlify.app)
+- Web: [erturk-dev.netlify.app](https://erturk-dev.netlify.app)
 - GitHub: [@abdullah-erturk](https://github.com/abdullah-erturk)
 
 ## 🤝 Katkıda Bulunma
@@ -427,7 +427,7 @@ This tool is provided as-is for system administration and personal use. Always t
 ## 👤 Author
 
 **Abdullah ERTURK**
-- Website: [erturk.netlify.app](https://erturk.netlify.app)
+- Website: [erturk-dev.netlify.app](https://erturk-dev.netlify.app)
 - GitHub: [@abdullah-erturk](https://github.com/abdullah-erturk)
 
 ## 🤝 Contributing
